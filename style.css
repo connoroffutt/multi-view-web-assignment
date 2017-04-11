@@ -1,0 +1,32 @@
+header{
+	background-color:navy;
+    text-align:center;
+    padding:10px;
+    font: normal 30pt Arial;
+    color: white;
+    text-decoration: none;
+}
+
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: pink;
+}
+a:visited{
+	color:navy;
+}
+a:visited:hover{
+	color:green;
+}
+a:active{
+	color: yellow;
+}
+
+h3 {
+	text-align: center;
+}
+
+.row {
+	margin-top: 15px;
+}
